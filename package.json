@@ -1,0 +1,19 @@
+{
+  "name": "dye-notifier",
+  "version": "1.0.0",
+  "description": "Dynamic Yield Exercise - Notifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SBD580/dye-notifier.git"
+  },
+  "author": "Shay Ben David",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SBD580/dye-notifier/issues"
+  },
+  "homepage": "https://github.com/SBD580/dye-notifier#readme"
+}
